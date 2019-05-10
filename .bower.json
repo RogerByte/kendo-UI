@@ -1,0 +1,39 @@
+{
+  "name": "kendo.ui.open",
+  "authors": [
+    "Telerik"
+  ],
+  "description": "Kendo UI",
+  "main": [
+    "./styles/kendo.common-material.core.min.css",
+    "./styles/kendo.common-material.min.css",
+    "./styles/kendo.material.min.css",
+    "kendo.all.js"
+  ],
+  "keywords": [
+    "kendo"
+  ],
+  "license": "MIT",
+  "homepage": "telerik.com",
+  "dependencies": {
+    "angular": "~1.6.4",
+    "jquery": "~2.1.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1cf03801e9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1cf03801e9a5b1210b0eefcd04cbb40c90903741"
+  },
+  "_source": "https://github.com/RogerByte/kendo-UI.git",
+  "_target": "*",
+  "_originalSource": "kendo.ui.open",
+  "_direct": true
+}
